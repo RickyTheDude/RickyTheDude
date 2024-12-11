@@ -1,3 +1,4 @@
+![MasterHead](https://www.codedex.io/images/p5/p5courseimage.gif)
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 <h3 align="center">A Computer Science aficionado from India</h3>
 
