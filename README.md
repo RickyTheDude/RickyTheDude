@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Dev and Information Security**
 
-- 👯 I’m looking to collaborate on **Anything cool**
+- 👯 I’m looking to collaborate on **Anything meaningful**
 
 - 💬 Ask me about **Computers and design**
 
