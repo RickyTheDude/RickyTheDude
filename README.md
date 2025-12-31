@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ayanmahata2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanmahata2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayan-mahata-5ba223239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-mahata-5ba223239" height="30" width="40" /></a>
-<a href="https://instagram.com/minimalist_ricky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalist_ricky" height="30" width="40" /></a>
+<a href="https://www.instagram.com/blue.team.leader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalist_ricky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
