@@ -19,4 +19,4 @@
 <a href="https://www.instagram.com/blue.team.leader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalist_ricky" height="30" width="40" /></a>
 </p>
 
-Check out my portfolio: ayanmahata.pages.dev
+Check out my [portfolio](https://ayanmahata.pages.dev/)!
