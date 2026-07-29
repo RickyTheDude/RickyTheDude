@@ -1,22 +1,44 @@
-![MasterHead](https://www.codedex.io/images/p5/p5courseimage.gif)
-<h1 align="center">Hi 👋, I'm Ayan</h1>
-<h3 align="center">A Computer Science aficionado from India</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Backend dev and Machine Learning**
+# Hey, I'm Ayan 👋
 
-- 👯 I’m looking to collaborate on **LLMs/Orchestration/Agents**
+### I build products with code, design, and AI.
 
-- 💬 Ask me about **Computers and Design**
+<a href="https://ayanmahata.pages.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/ayan-mahata/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:academicayan2022@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-111111?style=flat-square&logo=gmail" alt="Email" />
+</a>
 
-- 📫 Reach out to me at **iit2023002@iiita.ac.in**
+</div>
 
-- ⚡ Fun fact **I can sing!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayanmahata2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanmahata2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayan-mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-mahata-5ba223239" height="30" width="40" /></a>
-<a href="https://www.instagram.com/blue.team.leader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minimalist_ricky" height="30" width="40" /></a>
-</p>
+I'm an Information Technology student at **IIIT Allahabad** who enjoys working across product design, mobile development, full-stack engineering, and applied AI.
 
-Check out my [portfolio](https://ayanmahata.pages.dev/)!
+* 🛠️ Building **AI-native products and mobile experiences**
+* 🧠 Exploring **agents, knowledge graphs, and learner modelling**
+* 🚀 Built [Plan & Learn](https://www.youtube.com/watch?v=B8GD4rjf-AA), an AI-native learning app
+* 🎨 Interested in the intersection of **engineering and product design**
+* 🎤 I also sing sometimes
+
+### Currently working with
+
+`TypeScript` · `React Native` · `React` · `Cloudflare Workers` · `Python` · `Vercel AI SDK`
+
+### Around the internet
+
+[Portfolio](https://ayanmahata.pages.dev/) ·
+[Plan & Learn Demo](https://www.youtube.com/watch?v=B8GD4rjf-AA) ·
+[LinkedIn](https://www.linkedin.com/in/ayan-mahata/) ·
+[X](https://twitter.com/ayanmahata2)
+
+<div align="center">
+
+<sub>Building things, learning things, occasionally breaking things.</sub>
+
+</div>
