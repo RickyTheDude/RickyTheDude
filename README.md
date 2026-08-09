@@ -2,43 +2,29 @@
 
 # Hey, I'm Ayan 👋
 
-### I build products with code, design, and AI.
+### I build software across mobile, backend, and applied AI.
 
-<a href="https://ayanmahata.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/ayan-mahata/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:academicayan2022@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-111111?style=flat-square&logo=gmail" alt="Email" />
-</a>
+[Portfolio](https://ayanmahata.pages.dev/) ·
+[LinkedIn](https://www.linkedin.com/in/ayan-mahata/) ·
+[Plan & Learn Demo](https://www.youtube.com/watch?v=B8GD4rjf-AA)
 
 </div>
 
 ---
 
-I'm an Information Technology student at **IIIT Allahabad** who enjoys working across product design, mobile development, full-stack engineering, and applied AI.
+I'm a final-year undergrad at **IIIT Allahabad** building polished,
+technically interesting software across mobile and backend systems.
 
-* 🛠️ Building **AI-native products and mobile experiences**
-* 🧠 Exploring **agents, knowledge graphs, and learner modelling**
-* 🚀 Built [Plan & Learn](https://www.youtube.com/watch?v=B8GD4rjf-AA), an AI-native learning app
-* 🎨 Interested in the intersection of **engineering and product design**
-* 🎤 I also sing sometimes
+- 📱 Built **Plan & Learn**, an AI-native React Native learning app
+- ⚡ Worked with **Cloudflare Workers, Redis, REST APIs, and local-first mobile architecture**
+- 🔐 Built full-stack systems involving **client-side cryptography, backend APIs, and Docker**
+- 🧠 Currently exploring **AI engineering and agentic systems**
+- 🎤 I can sing well :)
 
 ### Currently working with
 
-`TypeScript` · `React Native` · `React` · `Cloudflare Workers` · `Python` · `Vercel AI SDK`
+`Python` · `TypeScript` · `React Native` · `React` · `Node.js` · `Cloudflare Workers` · `SQL`
 
-### Around the internet
-
-[Portfolio](https://ayanmahata.pages.dev/) ·
-[Plan & Learn Demo](https://www.youtube.com/watch?v=B8GD4rjf-AA) ·
-[LinkedIn](https://www.linkedin.com/in/ayan-mahata/) ·
-[X](https://twitter.com/ayanmahata2)
-
-<div align="center">
+---
 
 <sub>Building things, learning things, occasionally breaking things.</sub>
-
-</div>
